@@ -14,7 +14,7 @@
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="react" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />  
   <img align="center" alt="nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//nodejs-original-wordmark.svg" />  
-  <img align="center" alt="nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeScript/typeScript-original-wordmark.svg" /> 
+  <img align="center" alt="nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original-wordmark.svg" /> 
 </div>
  
 <br>
