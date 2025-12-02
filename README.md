@@ -2,8 +2,7 @@
 
 <div>
    <a href="https://github.com/maciel1988">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+   ![Maciel stats](https://github-readme-stats.vercel.app/api?username=Maciel_icons=true&theme=radical)
 </div>
     
 <div style="display: inline_block"><br>
