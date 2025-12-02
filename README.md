@@ -2,7 +2,8 @@
 
 <div>
    <a href="https://github.com/maciel1988">
-   ![Maciel stats](https://github-readme-stats.vercel.app/api?username=Maciel_icons=true&theme=radical)
+   <a [![Maciel1988](https://github-readme-stats.vercel.app/api?username=Maciel1988)](https://github.com/anuraghazra/github-readme-stats)>
+   <a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)>
 </div>
     
 <div style="display: inline_block"><br>
